@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759361725639",
+    "project_id": "pamfirebasenew",
+    "storage_bucket": "pamfirebasenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759361725639:android:dc7777da2fc60e3c03cae2",
+        "android_client_info": {
+          "package_name": "com.example.sqlroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759361725639-im08730n11qjcghbcrjerqfhpie57j7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDi76UKGrtVed-jkSM3_9zuGOSeJYjK2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759361725639-im08730n11qjcghbcrjerqfhpie57j7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
