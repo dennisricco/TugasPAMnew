@@ -127,9 +127,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     }
     public void updateUI(FirebaseUser user) {
         if (user != null) {
-            Intent intent = new
-                    Intent(LoginActivity.this,
-                    InsertNoteActivity.class);
+            Intent intent = new Intent(LoginActivity.this, InsertNoteActivity.class);
             startActivity(intent);
         } else {
             Toast.makeText(LoginActivity.this,"Log In First",
