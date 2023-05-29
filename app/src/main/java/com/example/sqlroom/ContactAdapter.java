@@ -48,8 +48,7 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ContactV
     public class ContactViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener
     {
         LinearLayout contactLayout;
-        TextView tvName, tvNumber, tvCall, tvMessage,
-                tvWhatsapp, tvDelete;
+        TextView tvName, tvNumber, tvCall, tvMessage, tvWhatsapp, tvDelete;
         public ContactViewHolder(@NonNull View itemView)
         {
             super(itemView);
